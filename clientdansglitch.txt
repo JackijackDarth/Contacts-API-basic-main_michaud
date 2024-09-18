@@ -1,0 +1,8 @@
+slectioner tout doc qui sont clients et envoyer vers dossier compresser. 
+pas compresser le dossier complet mais juste les fichiers
+
+dans glitch : new project (premiere option : glitch-hello-website)
+delete tout les fichier inutiles. assets aussi
+
+dans files, faire upload archive et choisir le zip cree precedement
+
